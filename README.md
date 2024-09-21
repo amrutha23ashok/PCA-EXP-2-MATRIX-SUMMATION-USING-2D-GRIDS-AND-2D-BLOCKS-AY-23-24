@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-### NAME:ARAVIND SAMY.P
-### REGISTER NO: 212222230011
+### NAME:AMRUTHA S A
+### REGISTER NO: 212222110004
 ### EX. NO: 02
 ### DATE: 
 
@@ -295,4 +295,4 @@ int main(int argc, char **argv)
 ![image](https://github.com/Aravindsamy04/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/113497037/ae073eef-5c85-49f8-855b-b94e170a30be)
 
 ## RESULT:
-The host took 0.862632 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.118365 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took 0.862632 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.118365 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully
